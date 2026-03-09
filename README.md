@@ -56,7 +56,7 @@ Currently involved in research and development projects at LabCidades (UFES), fo
 - PostGIS
 - QGIS
 - NetworkX
-- OSMnx (OpenStreetMap)
+- OSMnx (OpenStreetMap data)
 
 **Development**
 
