@@ -93,6 +93,8 @@ Population density grids are combined with shortest-path distances through the r
 
 Python, GeoPandas, NetworkX, OSMnx, OpenStreetMap, spatial data analysis
 
+---
+
 ### Geospatial Data Processing Pipeline
 Pipeline for processing and analyzing spatial data using Python and geospatial libraries.
 
