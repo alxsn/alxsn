@@ -95,15 +95,6 @@ Python, GeoPandas, NetworkX, OSMnx, OpenStreetMap, spatial data analysis
 
 Repository: [alegre_solucao_1](https://github.com/labcidades-ufes/alegre_solucao_1)
 
-### Geospatial Data Processing Pipeline
-Pipeline for processing and analyzing spatial data using Python and geospatial libraries.
-
-### Spatial Data Visualization Dashboard
-Interactive dashboard for visualizing urban and geospatial datasets.
-
-### Urban Data Analysis
-Exploratory data analysis and modeling applied to urban systems and mobility data.
-
 ---
 
 ## Current Work
