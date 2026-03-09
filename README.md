@@ -1,7 +1,9 @@
 # Hi, I'm Alexsander Barbosa Moura
 
 Data Scientist, Programmer and Developer working with data analysis, geospatial data and urban analytics.
+
 Computer Engineering student at the Federal University of Espírito Santo (UFES).
+
 Currently involved in research and development projects at LabCidades (UFES), focusing on spatial data, urban systems and data-driven solutions.
 
 ---
