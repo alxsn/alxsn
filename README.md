@@ -1,6 +1,7 @@
-# Hi, I'm [Your Name]
+# Hi, I'm Alexsander Barbosa Moura
 
-Data Scientist, Programmer and Developer working with data analysis, geospatial data and urban analytics.  
+Data Scientist, Programmer and Developer working with data analysis, geospatial data and urban analytics.
+Computer Engineering student at the Federal University of Espírito Santo (UFES).
 Currently involved in research and development projects at LabCidades (UFES), focusing on spatial data, urban systems and data-driven solutions.
 
 ---
@@ -35,12 +36,16 @@ Currently involved in research and development projects at LabCidades (UFES), fo
 - Python
 - SQL
 - JavaScript
+- Java
+- C
+- C++
 
 **Data Science**
 
 - Pandas
 - NumPy
 - Scikit-learn
+- TensorFlow
 - Jupyter
 
 **Geospatial**
@@ -49,7 +54,7 @@ Currently involved in research and development projects at LabCidades (UFES), fo
 - PostGIS
 - QGIS
 - NetworkX
-- OpenStreetMap data
+- OpenStreetMap
 
 **Development**
 
@@ -96,4 +101,3 @@ Research and development projects involving:
 ## Contact
 
 - LinkedIn: https://www.linkedin.com/in/alexsander-barbosa-moura-658131250/
-- Email
