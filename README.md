@@ -75,8 +75,23 @@ Currently involved in research and development projects at LabCidades (UFES), fo
 
 ## Featured Projects
 
-### Urban Road Network Analysis
-Analysis of urban road networks using Python and OpenStreetMap data to study connectivity and network structure.
+### Alegre Health Accessibility Analysis (Alegre Solução 1)
+
+Geospatial analysis of healthcare accessibility in the city of Alegre (ES, Brazil).  
+The project estimates accessibility to Basic Health Units (UBS) by combining population density data with road network travel distances.
+
+Population density grids are combined with shortest-path distances through the road network to identify areas where high population density coincides with poor access to healthcare services. These regions are highlighted in red to support spatial decision-making and urban planning.
+
+**Data sources**
+
+- OpenStreetMap road network (via OSMnx)
+- Population density dataset (Kontur Population dataset)
+- Health facility locations from the Espírito Santo state geospatial data infrastructure
+- Municipal boundaries from the Espírito Santo geospatial data infrastructure
+
+**Technologies**
+
+Python, GeoPandas, NetworkX, OSMnx, OpenStreetMap, spatial data analysis
 
 ### Geospatial Data Processing Pipeline
 Pipeline for processing and analyzing spatial data using Python and geospatial libraries.
